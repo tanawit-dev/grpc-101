@@ -1,4 +1,4 @@
-package me.tanawit.grpc.server;
+package me.tanawit.grpc.greeting.server;
 
 import java.io.IOException;
 

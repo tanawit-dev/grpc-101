@@ -1,4 +1,4 @@
-package me.tanawit.grpc.client;
+package me.tanawit.grpc.greeting.client;
 
 import java.util.logging.Logger;
 
